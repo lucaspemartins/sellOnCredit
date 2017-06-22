@@ -1,0 +1,22 @@
+{
+  "name": "selloncredit",
+  "version": "1.0.0",
+  "description": "You want to buy my stuff, but don't have money. Don't worry, put them on the cuff!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaspemartins/sellOnCredit.git"
+  },
+  "author": "Lucas Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaspemartins/sellOnCredit/issues"
+  },
+  "homepage": "https://github.com/lucaspemartins/sellOnCredit#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
